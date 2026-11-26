@@ -1,0 +1,125 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{geometry}
+\geometry{margin=2.4cm}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue!60!black,
+  urlcolor=teal!80!black,
+  citecolor=blue!60!black
+}
+
+\title{\textbf{AlgaTech — Desafío ORO-4.2: Colas con mercurio: encontrarlas, medirlas, priorizarlas}\\[0.4em]
+\large Informe Técnico, Metodología Cartográfica y Validación Científica}
+\author{Equipo AlgaTech (Agronomía, Química, Electrónica e Informática)\\
+Hackathon Oro Responsable Bolivia 2026 — UMSA, La Paz}
+\date{26 de noviembre de 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Se presenta el diseño, implementación y validación inicial de \textbf{AlgaTech}, una plataforma abierta, sin servidores y de costo mínimo para la detección de colas mineras candidatas, verificación de campo offline, atribución hidrológica probabilística aguas abajo (Monte Carlo), semáforo comunitario de consumo de pescado y priorización multicriterio con ley de equilibrio económico. La zona piloto abarca las cuencas de los ríos Tipuani, Mapiri y Kaka hasta el Alto Beni (La Paz, Bolivia), integrando datos reales de OpenStreetMap, \textit{Global Mining Polygons v2}, Censo 2024 (INE/SEDALP) y concentraciones medidas de mercurio en diez especies de peces del río Beni (Loayza et al., 2026). Todo resultado se expresa como índice relativo con incertidumbre explícita (\texttt{p10--p90}) y nivel de evidencia declarado (\texttt{medido}, \texttt{estimado} o \texttt{sin\_dato}).
+\end{abstract}
+
+\section{Principios Científicos y Diseño No Punitivo}
+\begin{enumerate}
+  \item \textbf{Honestidad y cero invención de datos:} todo dato sintético de prueba se aísla con \texttt{sintetico=1} y nunca ingresa a métricas de validación. Los tramos sin mediciones de peces se muestran explícitamente como \texttt{sin\_dato} (prioridad de muestreo) y jamás en rojo por inferencia del modelo.
+  \item \textbf{Índices relativos e incertidumbre:} al no existir un inventario nacional de contenido de Hg en colas, los resultados son índices relativos con propagación de incertidumbre mediante 500 sorteos Monte Carlo.
+  \item \textbf{Capa pública vs.\ capa restringida:} la ficha de campo offline (QGIS/QField) es voluntaria; el campo de responsable es opcional y privado, y jamás se exporta al visor web estático.
+  \item \textbf{Seguridad y marco legal:} ninguna acción solicita manipular mercurio; la etiqueta \textit{reprocesable} solo se habilita si existe licencia ambiental registrada.
+\end{enumerate}
+
+\section{Fuentes de Datos Reales y Construcción Cartográfica}
+La totalidad de parámetros geográficos y temporales se controla en \texttt{config/zona.yaml} (rectángulo piloto $[-68.25^\circ, -15.80^\circ, -67.15^\circ, -15.25^\circ]$ en WGS84). Para el cálculo métrico de áreas, distancias de ladera y longitudes fluviales, todas las geometrías se reproyectan analíticamente al sistema proyectado \textbf{WGS 84 / UTM Zona 19S (\texttt{EPSG:32719})} y se almacenan en el contrato GeoPackage OGC (\texttt{data/processed/algatech.gpkg}, esquema \texttt{v1.0.0}):
+
+\begin{itemize}
+  \item \textbf{Cruce espacial de polígonos mineros:} se extrajeron los polígonos reales de Bolivia (\texttt{ISO3\_CODE = `BOL'}) de \textit{Global Mining Polygons v2} \cite{maus2022} dentro de la zona piloto y se cruzaron espacialmente (\texttt{intersects}) con las áreas de minería y canteras (\texttt{landuse=quarry}, \texttt{man\_made=mine}) de OpenStreetMap \cite{osm2026}. Cada sitio conserva su procedencia exacta (\texttt{GMP\_v2 + OSM (cruzado)}, \texttt{Global\_Mining\_Polygons\_v2} u \texttt{OSM}) evitando duplicaciones.
+  \item \textbf{Red fluvial y grafo dirigido (M3):} se extrajeron 106 tramos reales (\texttt{waterway=river}) de OpenStreetMap en la cuenca piloto (más el tramo de referencia aguas abajo en Rurrenabaque), construyendo un grafo acíclico dirigido (\texttt{networkx.DiGraph}) donde cada nodo es un tramo con peso igual a su longitud real en kilómetros. Cada cola y cada comunidad se proyecta ortogonalmente (\textit{snap}) al tramo más cercano obteniendo la distancia de ladera $d_i$ (m) y la distancia fluvial aguas abajo $L_{ij}$ (km) vía Dijkstra ($L_{ij} = \infty$ si el receptor $j$ no está aguas abajo de $i$).
+  \item \textbf{Comunidades y población oficial (Censo 2024):} se incorporaron 222 localidades de OpenStreetMap y se cruzó la población oficial del Censo 2024 publicada por el INE y SEDALP La Paz \cite{ine2024}: Tipuani (7\,640), Guanay (16\,373), Mapiri (21\,805), Teoponte (13\,469), Alto Beni (10\,499), Palos Blancos (26\,995) y Caranavi (59\,034).
+  \item \textbf{Concentraciones reales de mercurio en peces (\texttt{peces\_hg}):} se integraron las 10 especies amazónicas analizadas en el río Beni (Rurrenabaque, junio--julio 2024) por Loayza et al.\ \cite{loayza2026} mediante descomposición térmica, amalgamación y espectrometría de absorción atómica (\textbf{EPA-Method 7473}, AMA254 LECO\textregistered, validado con materiales certificados SRM 1547 y DORM-4).
+\end{itemize}
+
+\section{Formulación Matemática de los Módulos}
+
+\subsection{Detección Satelital y Bloques Espaciales (M1)}
+El módulo M1 opera sobre compuestos Sentinel-2 L2A (vía STAC) de temporada seca (jun--sep 2026 y referencia 2019), calculando NDVI, MNDWI, índice de suelo desnudo (BSI) y cambio $\Delta\text{NDVI}$, junto con pendiente y HAND del DEM. El clasificador Random Forest se valida estrictamente mediante \texttt{GroupKFold} por bloques espaciales contiguos (evitando fuga espacial) y agrupa los píxeles en objetos filtrados por área mínima ($400\,\text{m}^2$) y pendiente máxima ($25^\circ$).
+
+\subsection{Atribución Hidrológica y Monte Carlo (M4)}
+La fuerza relativa de cada fuente $i$ se implementa como arquitectura de \textit{plugins} extensibles por tipo de pasivo (\texttt{cola\_aluvial}, \texttt{desmonte}, \texttt{aguas\_acidas}):
+\begin{equation}
+  S_i = A_i \cdot h_i \cdot u_i, \qquad K_i = \exp\!\left(-\frac{d_i}{D}\right) f_{\text{erosión}, i}, \qquad T_{ij} = \exp\!\left(-\frac{L_{ij}}{\lambda}\right)
+\end{equation}
+donde $T_{ij} = 0$ si $L_{ij} = \infty$. La contribución relativa de la cola $i$ al receptor $j$ y el índice agregado de impacto $I_i$ son:
+\begin{equation}
+  C_{ij} = S_i K_i T_{ij}, \qquad \text{parte}_{ij} = \frac{C_{ij}}{\sum_k C_{kj}}, \qquad I_i = S_i K_i \sum_j w_j T_{ij}
+\end{equation}
+con peso receptor $w_j = \text{población}_j \cdot \text{consumo}_j \cdot (1 + \beta \cdot \text{agua\_quieta}_j)$. Los parámetros inciertos $D \in [50, 300]\,\text{m}$ y $\lambda \in [10, 60]\,\text{km}$ se muestrean en 500 sorteos Monte Carlo (semilla fija 42), publicando la mediana (\texttt{p50}) y el intervalo \texttt{p10--p90}. Una cola se declara prioritaria solo si aparece en el top-$k$ en al menos el $80\%$ de los sorteos.
+
+\subsection{Semáforo de Consumo de Pescado (M5)}
+Todas las mediciones se normalizan a $\text{mg/kg}$ peso húmedo y se evalúan frente a los umbrales de referencia OMS editables en \texttt{config/umbrales.yaml} ($0.5\,\text{mg/kg}$ para no depredadores y $1.0\,\text{mg/kg}$ para depredadores). El color es \textbf{verde} ($<50\%$ del umbral), \textbf{amarillo} ($50\%$--$100\%$), \textbf{rojo} ($>100\%$, solo con dato medido) y \textbf{lila/gris} (\texttt{sin\_dato}).
+
+\begin{table}[h]
+\centering
+\caption{Concentraciones reales de mercurio total (THg, mg/kg peso húmedo) en especies del río Beni (Rurrenabaque) reportadas por Loayza et al.\ (2026) \cite{loayza2026}.}
+\begin{tabular}{llcc}
+\toprule
+\textbf{Especie (Nombre común)} & \textbf{Gremio trófico} & \textbf{THg medio (mg/kg p.h.)} & \textbf{Umbral OMS} \\
+\midrule
+\textit{Piaractus brachypomus} (Pacú) & No depredador & 0.04 & 0.50 (Verde) \\
+\textit{Colossoma macropomum} (Tambaquí) & No depredador & 0.10 & 0.50 (Verde) \\
+\textit{Brycon amazonicus} (Yatorana) & No depredador & 0.12 & 0.50 (Verde) \\
+\textit{Prochilodus nigricans} (Sábalo) & No depredador & 0.15 & 0.50 (Verde) \\
+\textit{Arapaima gigas} (Paiche) & Depredador & 0.40 & 1.00 (Verde) \\
+\textit{Zungaro zungaro} (Bagre) & Depredador & 0.60 & 1.00 (Amarillo) \\
+\textit{Plagioscion squamosissimus} (Corvina) & Depredador & 0.70 & 1.00 (Amarillo) \\
+\textit{Sorubimichthys planiceps} (Pantalón) & Depredador & 0.80 & 1.00 (Amarillo) \\
+\textit{Pseudoplatystoma fasciatum} (Surubí) & Depredador & 0.90 & 1.00 (Amarillo) \\
+\textit{Calophysus macropterus} (Blanquillo) & Depredador & 1.90 & 1.00 (Rojo) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Priorización Multicriterio y Ley de Equilibrio (M6)}
+El índice compuesto de riesgo combina percentiles normalizados con pesos ajustables en vivo:
+\begin{equation}
+  R_i = 0.60\,\text{pct}(I_i) + 0.25\,\text{pct}(\text{población aguas abajo}_i) + 0.15\,\text{pct}(\text{agua quieta}_i)
+\end{equation}
+Dado que la ley de oro real de cada cola es desconocida, se despeja la \textbf{ley de equilibrio} ($\text{g Au/t}$) a partir del volumen estimado $T_i = A_i h_i \rho$ donde el beneficio neto $V_i = 0$:
+\begin{equation}
+  \text{ley}_{\text{eq}, i} = \frac{c_{\text{reproceso}} + (\text{CAPEX}_{\text{mov}} / T_i)}{\eta_{\text{recup}} \cdot P_{\text{Au}}}
+\end{equation}
+Esto clasifica cada sitio en cuatro cuadrantes (\textit{remediar y reprocesar}, \textit{remediar con fondos públicos}, \textit{reprocesar solo con licencia} y \textit{vigilar}) y genera la lista optimizada de campaña de campo (\texttt{top-5 + 2 controles}).
+
+\section{Visualización Web Estática y Escalabilidad}
+Para operar con costo cero de infraestructura, el flujo exporta una capa pública WGS84 (\texttt{web/data/datos\_publicos.json}) y fichas PDF individuales (\texttt{web/fichas/}), visualizadas en un portal estático desplegable en Netlify o GitHub Pages. El mapa emplea imágenes satelitales reales (\textit{Esri World Imagery}, \texttt{maxNativeZoom=17}, \texttt{maxZoom=19}) evitando errores de mosaicos faltantes, recoloreando dinámicamente los sitios al modificar los pesos de $R_i$ e incluyendo una vista nacional de escalabilidad sobre los polígonos mineros de toda Bolivia.
+
+\section{Estado de Validación y Trabajo Futuro}
+La suite automatizada (\texttt{pytest}) verifica 14 pruebas de contrato de datos, unidades, distancias aguas abajo, normalización de peces, reproducibilidad Monte Carlo y privacidad de exportación web (14/14 aprobadas). Quedan explícitamente declarados como pendientes de campaña de campo: (i) precisión/exhaustividad de M1 con polígonos verificados en terreno, (ii) mediana de minutos por ficha QField, (iii) concordancia $\tau$ de Kendall con especialistas y (iv) muestras de peces dentro de los tramos de cabecera Tipuani--Mapiri--Kaka.
+
+\begin{thebibliography}{9}
+\bibitem{loayza2026}
+Loayza, E., Peñarrieta, J. M., Achá, D., \& Miranda-Chumacero, G. (2026). Balancing nutrients and mercury: Nutritional composition and total mercury content in fish consumed in the Bolivian Amazon (Beni River). \textit{Journal of Food Composition and Analysis}, 150, 108840. \url{https://doi.org/10.1016/j.jfca.2025.108840}
+
+\bibitem{ine2024}
+Instituto Nacional de Estadística (INE) \& Servicio Departamental de Autonomías de La Paz (SEDALP). (2024). \textit{Datos del Censo 2024 por Región — Departamento de La Paz}. Gobierno Autónomo Departamental de La Paz.
+
+\bibitem{maus2022}
+Maus, V., Giljum, S., da Silva, D. M., Gutschlhofer, J., da Rosa, R. P., Luckeneder, S., Gass, S. L. B., Lieber, M., \& McCallum, I. (2022). An update on global mining land use (\textit{Global Mining Polygons v2}). \textit{Scientific Data}, 9, 433.
+
+\bibitem{osm2026}
+OpenStreetMap contributors. (2026). Datos vectoriales de hidrografía, localidades y áreas extractivas (Cuenca Tipuani--Mapiri--Kaka--Alto Beni) obtenidos vía Overpass API. \url{https://www.openstreetmap.org}
+
+\bibitem{mongabay2026}
+Mongabay News. (2026, septiembre). Mercury threatens over 160 communities in Bolivia's Beni River basin. \url{https://news.mongabay.com/2026/09/mercury-threatens-over-160-communities-in-bolivias-beni-river-basin/}
+\end{thebibliography}
+
+\end{document}

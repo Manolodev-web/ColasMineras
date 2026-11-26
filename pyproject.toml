@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "algatech"
+version = "0.1.0"
+description = "Sistema abierto de detección, trazabilidad hidrológica y priorización de colas con mercurio (ORO-4.2)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Equipo AlgaTech - Hackathon Oro Responsable Bolivia 2026" }
+]
+dependencies = [
+  "numpy>=1.24",
+  "pandas>=2.0",
+  "PyYAML>=6.0",
+  "shapely>=2.0",
+  "networkx>=3.0",
+  "scipy>=1.10",
+  "scikit-learn>=1.3",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+gis = ["geopandas>=0.14", "pyogrio>=0.7", "rasterio>=1.3", "whitebox>=2.3"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

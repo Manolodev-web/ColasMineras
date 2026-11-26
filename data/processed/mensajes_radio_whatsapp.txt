@@ -1,0 +1,1329 @@
+Palos Blancos (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Guanay (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+La Aguada (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Mapiri (Rio Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Santa Ana de Mosetenes (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Mapurichuqui (Río sin nombre 116): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Inicua (Rio Inicua): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+El Sillar (Río sin nombre 84): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Suapi Kilometro 73 (Río Suapi): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Cotapampa (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Tipuani (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Alcoche (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Alto Chijini (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Asilahuara (Río sin nombre 122): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Challana Pampa (Rio Challana): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Flor de Mayo (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Merma (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Nueva Esperanza (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Juanito (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Witoponte (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Kilometro 52 (Rio Piquendo): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Villa Piquendo (Rio Piquendo): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Alto Illimani Los Andes (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Villa Aroma (Río sin nombre 85): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Tomachi (Río sin nombre 85): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Calama (Río sin nombre 85): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Collasuyo B (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Localidad 190 (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Taniplaya (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Carura (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Candelaria (Río sin nombre 87): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Alacarani (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Tuti Limundi (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Jose de Pelera (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Nueva Generación (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Mariapu (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Localidad 199 (Río Challana): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Localidad 200 (Río sin nombre 65): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Paniagua (Río sin nombre 126): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Nuevos Horizontes (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Villa El Porvenir (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Popoy (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Sapecho (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Pajonal Vilaque (Río sin nombre 77): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Jose Carrasco (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Gritado (Río sin nombre 126): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+La Rinconada (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Juan de Paltani (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Piscini (Río sin nombre 126): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Molleterio (Río sin nombre 126): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Unutuluni (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Sararia (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Inicua Bajo (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Rosario Silicuni (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Santa Rosa de Guanay (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Miguel Doolling (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Tajlihui (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Tajlihui California (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Tajlihui Gualberto Villarroel (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Santa Barbara (Río sin nombre 85): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Santa Barbara (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Villa Unificada Caserio Nueve (Rio Piquendo): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Caserio 7 (Rio Piquendo): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Puente Mapurichuqui (Río sin nombre 115): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Panamericana (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Nariz de Canoa (Río sin nombre 114): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Puerto Linares (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Palmar Suapi (Río Suapi): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Sucre (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Puerto Santa Ana (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Pablo (Rio Inicua): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Puente Alto Beni (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Apostol Santiago (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Las Peñas (Rio Inicua): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Chavarría (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Charopampa (Rio Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Teoponte (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Mayaya (Río Chico Chamaleo): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Antonio (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Tres Arroyos (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Cangalli (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Yaycura (Rio Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Agropecuaria La Esperanza (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Santo Domingo (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Flor de Mayo (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Fernandez (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Santo Domingo (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Santa Elena (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Nueva Oscar (Rio Inicua): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Charcas Segunda Faja (Rio Inicua): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Villa Prado (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Juan de Suapi (Río sin nombre 140): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Troncal Sararia (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Ampliación San Luis (Río Chico Chamaleo): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Ampliación San Luis II (Río Chico Chamaleo): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Incahuara (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Brecha Zeta (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Brecha Mayaya (Río sin nombre 132): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Puesto Militar Tohomonoco (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Chimate (Río sin nombre 88): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Moscovia (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Santiago (Río sin nombre 91): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+La Loma Santa Clara (Río sin nombre 126): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Flor Huaycho 1 (Río sin nombre 85): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Flor Huaycho II (Río sin nombre 85): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Esperanza Segunda (Río sin nombre 85): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Mayaya (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Uyapi (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Vilaque Grande (Río sin nombre 91): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Monte Verde (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Alcoche Disperso (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Callana (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Juan de Kelequelera (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+14 de Septiembre (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Wacacala (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Alto Chispani (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Yolosani (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Alto Guanay (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Miguel (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Polopata (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Quilapituni (Río sin nombre 91): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Aguas Verdes (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Antonio (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Isidro (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Miraflores (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Salcala (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Bella Vista (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Trapicheponte (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Tajlihui (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Leco Quelequelera (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Maquique (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Apuri (Río Chico Chamaleo): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Pahuirno (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+26 de Agosto (Río sin nombre 132): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Colorado (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Guajchono (Río Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Gaviota (Río Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Fantasía (Río Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+El Triunfo (Río Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Juanito de Chamaleo Chico (Río Chico Chamaleo): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Chico Catea (Río Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Pilco Negro (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Cupara (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Leco Mangopata (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Santa Isabel (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Juan de Oro Mango Pata (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Nuve el Cedro (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Siempre Unidos (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Villa Elevación Tercera (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Barompampa (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Santa Rosa de Challana (Río Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Villa Florida (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Isidro 1era Zona (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Siliamo de Chispani (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Isidro 4ta Zona (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Muñecas Zona A (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Bella Vista (Rio Piquendo): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Yurumani (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Carrasco La Reserva (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Villa Oriente (Río sin nombre 94): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Villa Litoral (Río sin nombre 96): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Villa Exaltación (Río sin nombre 62): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Bustillos (Río sin nombre 84): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Michel (Río sin nombre 84): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Del Sillar (Río sin nombre 84): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Las Delicias (Río sin nombre 127): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Luis (Rio Inicua): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Nueva Ascension (Rio Inicua): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Playa Verde (Rio Inicua): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Martin de Agua Rica (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Chiliza (Rio Mapiri): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Alto Siempre Unidos (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Lorenzo de Luriacani (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Gualberto Villarroel (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Vilaque (Rio Challana): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Localidad 338 (Río sin nombre 160): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Localidad 339 (Rio Challana): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Sabaya (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Mercedes (Río sin nombre 96): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Santa Rosa (Río Suapi): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Belen (Río Suapi): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Oro Verde (Río Suapi): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Poroma (Río sin nombre 160): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Pumiri (Río sin nombre 85): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Santa Maria (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Moko Turilluni (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Brecha H (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Viliqui (Río sin nombre 91): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Colorado (Río sin nombre 114): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+25 de Septiembre (Río sin nombre 116): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Villazon (Río sin nombre 116): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Brecha F (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Porvenir A (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Villa San Jose (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Buenos Aires (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Porvenir B (Río Coroico): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Pablo II (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Salvador (Rio Yara): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Illimani C (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+La Loma Santa Clara (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Chima (Río sin nombre 126): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Charoplaya (Río sin nombre 87): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Copacabana (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Montevideo (Rio Kaka): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Collasuyo (Rio Piquendo): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Brecha A Nueva Florida (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Agro Ecologico Primero de Mayo (Río sin nombre 96): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Fortaleza (Río sin nombre 96): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Ocampo (Río Suapi): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Nueva Esperanza (Río Alto Beni): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Bartos (Río sin nombre 75): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Pablo (Rio Yara): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+San Lorenzo (Rio Yara): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Los Andes Zona 3 (Rio Yara): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Llipi (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Independencia (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Carguarani (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Bartolo Pasoskanqui (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Bartolo (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Romanplaya (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Babilonia (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.
+
+---
+
+Campamento 6 de Enero (Río Tipuani): No depredadores en GRIS, depredadores en GRIS.
+Evidencia: sin_dato. Si está en GRIS, el tramo requiere muestreo.
+Elegir especies con menor acumulación, no dejar de comer pescado.

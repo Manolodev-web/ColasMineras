@@ -1,0 +1,19 @@
+# Umbrales de mercurio en tejido de pescado (mg/kg peso húmedo).
+# Referencia inicial pendiente de confirmación por el químico del equipo.
+
+estado_validacion: "PENDIENTE_CONFIRMACION_QUIMICO"
+unidad_estandar: "mg/kg peso humedo"
+
+umbrales_hg_mg_kg_ph:
+  no_depredador: 0.5
+  depredador: 1.0
+  # Si se registran otros gremios, heredan el umbral conservador por defecto:
+  defecto: 0.5
+
+semaforo:
+  # Fracción respecto al umbral del gremio correspondiente
+  verde_max_fraccion: 0.50     # < 50% del umbral -> verde
+  amarillo_max_fraccion: 1.00  # 50% a 100% del umbral -> amarillo
+  # > 100% del umbral -> rojo (solo si existe evidencia medida)
+  etiqueta_sin_dato: "gris"
+  mensaje_comunitario: "Elegir especies con menor acumulación, no dejar de comer pescado."

@@ -1,0 +1,115 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >> endobj
+4 0 obj << /Length 1729 >> stream
+BT
+/F2 16 Tf
+50 750 Td
+(ALGATECH - FICHA DE SITIO: GMP-111) Tj
+-50 -750 Td
+/F1 10 Tf
+50 726 Td
+(DESAFIO ORO-4.2 | Capa publica \(sin datos personales\)) Tj
+-50 -726 Td
+/F1 8 Tf
+50 711 Td
+() Tj
+-50 -711 Td
+/F2 12 Tf
+50 699 Td
+(1. CARACTERISTICAS DEL PASIVO) Tj
+-50 -699 Td
+/F1 10 Tf
+50 681 Td
+(   Tipo de pasivo: cola_aluvial) Tj
+-50 -681 Td
+/F1 10 Tf
+50 666 Td
+(   Area estimada: 15567.2 m2 | Altura: N/D m) Tj
+-50 -666 Td
+/F1 10 Tf
+50 651 Td
+(   Pendiente media: None deg | HAND: None m) Tj
+-50 -651 Td
+/F1 10 Tf
+50 636 Td
+(   En cuadricula minera \(AJAM\): Si) Tj
+-50 -636 Td
+/F1 10 Tf
+50 621 Td
+(   Nivel de evidencia: estimado) Tj
+-50 -621 Td
+/F1 8 Tf
+50 606 Td
+() Tj
+-50 -606 Td
+/F2 12 Tf
+50 594 Td
+(2. ATRIBUCION HIDROLOGICA E INCERTIDUMBRE \(500 sorteos Monte Carlo\)) Tj
+-50 -594 Td
+/F1 10 Tf
+50 576 Td
+(   Indice de impacto relativo I \(mediana p50\): 0.00) Tj
+-50 -576 Td
+/F1 10 Tf
+50 561 Td
+(   Rango de incertidumbre \(p10 - p90\): [0.00, 0.00]) Tj
+-50 -561 Td
+/F1 10 Tf
+50 546 Td
+(   Estabilidad en top-k: 0.0% \(No alcanza 80%\)) Tj
+-50 -546 Td
+/F1 8 Tf
+50 531 Td
+() Tj
+-50 -531 Td
+/F2 12 Tf
+50 519 Td
+(3. PRIORIZACION, LEY DE EQUILIBRIO Y ACCION) Tj
+-50 -519 Td
+/F1 10 Tf
+50 501 Td
+(   Indice compuesto de riesgo R_i: 0.853) Tj
+-50 -501 Td
+/F1 10 Tf
+50 486 Td
+(   Ley de equilibrio estimada: 0.348 g Au/t) Tj
+-50 -486 Td
+/F1 10 Tf
+50 471 Td
+(   Licencia ambiental registrada \(reprocesable\): No) Tj
+-50 -471 Td
+/F1 10 Tf
+50 456 Td
+(   Cuadrante sugerido: remediar_con_fondos_publicos) Tj
+-50 -456 Td
+/F1 10 Tf
+50 441 Td
+(   Prioridad de muestreo: No) Tj
+-50 -441 Td
+/F1 8 Tf
+50 426 Td
+() Tj
+-50 -426 Td
+/F1 9 Tf
+50 414 Td
+(Nota: Todo resultado es un indice relativo, no una concentracion de Hg.) Tj
+-50 -414 Td
+ET
+endstream endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+6 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000002032 00000 n 
+0000002102 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+2177
+%%EOF

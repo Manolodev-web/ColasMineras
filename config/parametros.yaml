@@ -1,0 +1,55 @@
+# Parámetros físicos, hidrológicos, de Monte Carlo y plugins de fuentes (S_i).
+# Ningún parámetro numérico debe quedar fijo en el código fuente.
+
+esquema:
+  version: "1.0.0"
+
+hidrologia:
+  longitud_tramo_min_km: 20.0
+  longitud_tramo_max_km: 30.0
+  longitud_tramo_objetivo_km: 25.0
+  umbral_red_rios_celdas: 1000
+
+monte_carlo:
+  n_sorteos: 500
+  semilla: 42
+  top_k: 5
+  umbral_estabilidad_top_k: 0.80  # Prioritaria solo si aparece en top-k en >= 80% de sorteos
+  # Parámetro D (decaimiento por distancia de ladera al río, en metros)
+  D_metros:
+    distribucion: "uniforme"
+    min: 50.0
+    max: 300.0
+  # Parámetro LAMBDA (decaimiento longitudinal río abajo, en kilómetros)
+  lambda_km:
+    distribucion: "uniforme"
+    min: 10.0
+    max: 60.0
+  # Factor de amplificación por presencia de agua quieta en el receptor
+  beta_agua_quieta: 0.50
+
+# Parámetros por tipo de pasivo para el plugin de fuente S_i
+fuentes:
+  cola_aluvial:
+    descripcion: "Colas y relaves de procesamiento aurífero aluvial"
+    altura_defecto_m: 2.0
+    factor_uso_hg_defecto: 1.0
+    factor_uso_hg_declarado_si: 1.5
+    factor_uso_hg_declarado_no: 0.3
+  desmonte:
+    descripcion: "Desmontes y material estéril de excavación"
+    altura_defecto_m: 3.5
+    factor_uso_hg_defecto: 0.2
+    factor_uso_hg_declarado_si: 0.8
+    factor_uso_hg_declarado_no: 0.1
+  aguas_acidas:
+    descripcion: "Drenaje ácido o lagunas de lixiviación/pasivo líquido"
+    altura_defecto_m: 1.0
+    factor_uso_hg_defecto: 0.6
+    factor_uso_hg_declarado_si: 1.2
+    factor_uso_hg_declarado_no: 0.2
+
+deteccion:
+  area_min_m2: 400.0
+  pendiente_max_grados: 25.0
+  n_bloques_espaciales: 5

@@ -1,0 +1,27 @@
+# Configuración geográfica y temporal de la zona piloto.
+# Modificar este archivo para replicar el sistema en otras cuencas o periodos.
+
+nombre: "Cuencas Tipuani - Mapiri - Kaka hasta Alto Beni (La Paz, Bolivia)"
+estado_bbox: "PRELIMINAR_REFERENCIAL"  # Reemplazar por el polígono/bbox exacto validado en campo
+
+crs_origen: "EPSG:4326"
+crs_proyecto: "EPSG:32719"  # WGS 84 / UTM zona 19S
+
+# Rectángulo en coordenadas geográficas (EPSG:4326)
+bbox_wgs84:
+  west: -68.25
+  south: -15.80
+  east: -67.15
+  north: -15.25
+
+fechas:
+  temporada_seca_actual:
+    inicio: "2026-06-01"
+    fin: "2026-09-30"
+  referencia_historica:
+    inicio: "2019-06-01"
+    fin: "2019-09-30"
+
+satelite:
+  coleccion_stac: "sentinel-2-l2a"
+  nubosidad_max_pct: 20

@@ -1,0 +1,25 @@
+# Entornos Python y artefactos de compilación
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+dist/
+build/
+
+# Datos pesados o capas restringidas con coordenadas finas/responsables
+data/raw/*.tif
+data/raw/*.tiff
+data/raw/*.zip
+data/raw/*.gpkg
+data/raw/*.geojson
+data/processed/*.tif
+data/processed/*_restringido.gpkg
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Temporales de sistema
+.DS_Store
+Thumbs.db
+*.tmp

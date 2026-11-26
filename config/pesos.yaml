@@ -1,0 +1,20 @@
+# Pesos del índice compuesto de riesgo R_i y parámetros económicos de referencia
+# para estimar la ley de equilibrio por sitio.
+
+riesgo:
+  peso_impacto_I: 0.60
+  peso_poblacion_aguas_abajo: 0.25
+  peso_agua_quieta: 0.15
+
+economia_referencia:
+  # Valores editables; se usan para despejar la ley de equilibrio (g Au / tonelada)
+  estado: "PARAMETROS_REFERENCIALES_EDITABLES"
+  densidad_cola_t_m3: 1.65
+  recuperacion_gravimetrica_fraccion: 0.65
+  precio_oro_usd_por_g: 80.0
+  costo_reproceso_usd_por_t: 18.0
+  capex_movilizacion_usd: 5000.0
+
+cuadrantes:
+  umbral_riesgo_alto: 0.60
+  umbral_ley_equilibrio_favorable_g_t: 0.50  # Ley de equilibrio menor o igual sugiere viabilidad potencial
